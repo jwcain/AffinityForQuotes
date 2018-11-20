@@ -1,6 +1,6 @@
 #AffinityForQuotes
 #Python 3.6 Discord Bot
-#Author: Justin Cain
+#Author: Justin Cain, @AffinityForFun
 
 import discord
 from discord import game
