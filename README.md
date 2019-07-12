@@ -13,15 +13,15 @@ I was familiar with AI in Python due to a college course I took and, fortunately
 
 After weighing a few different options, I decided a Markov Chain had the highest power-to-cost ratio. I construct the Markov Chain in two parts:
 
-(IMAGE MISSING)
+![Data Crunch](Images/Code%20Snippet%20AffinityForQuotes_2.png)
 
 The first part processes chat history to develop three pieces of data: 1) The frequency of word-pair appearance (pairingCount), 2) the frequency a word appears (wordCount), and 3) maintains a dictionary that maps a word to a list of words that can follow it (mapping).
 
-(IMAGE MISSING)
+![Probability Pairs](Images/Code%20Snippet%20AffinityForQuotes.PNG)
 
 The second part calculates the transition probabilities between words. For example, the word-pair ‘the‘ and ‘time’ appears once in this paragraph and the word ‘the’ appears 6 times, so we assume that ‘time’ follows ‘the’ 16.6% of the time.
 
-(IMAGE MISSING)
+![Visualization of chain](Images/AfQ_Explanation.png)
 
 Out of the data, an implicit Markov Chain emerges. From a randomly selected starting word, I add words using the word-pair probabilities calculated earlier. This continues until it reaches the end-of-sentence mark and a quote is complete.
 	
