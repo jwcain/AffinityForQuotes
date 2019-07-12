@@ -1,6 +1,5 @@
 # AffinityForQuotes
-
-	Written: July 2018 - Present
+Written: July 2018 - Present
 ## Author
 - Justin Cain
 - jwcain@mtu.edu
