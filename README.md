@@ -26,13 +26,10 @@ The second part calculates the transition probabilities between words. For examp
 Out of the data, an implicit Markov Chain emerges. From a randomly selected starting word, I add words using the word-pair probabilities calculated earlier. This continues until it reaches the end-of-sentence mark and a quote is complete.
 	
 ## Structure
-	The bot is contained in one file, in the root folder. 
+The bot is contained in one file, in the root folder. 
 	
 ## Setup
-	The bot requires Python 3.6, and the discord packaged to be installed.
-	You must register for a discord bot and save the bot-client token in a file called 'keyfile' in the same directory.
-	Then you execute the python file in python. It will boot up and access any server that that bot-client ID has been 
-	added to.
+The bot requires Python 3.6, and the discord packaged to be installed. You must register for a discord bot and save the bot-client token in a file called 'keyfile' in the same directory. Then you execute the python file in python. It will boot up and access any server that that bot-client ID has been added to.
 	
 ## Use
 ```
@@ -51,7 +48,7 @@ Out of the data, an implicit Markov Chain emerges. From a randomly selected star
 ```
 			
 ## Example
-	(IMAGE MISSING)
-	(IMAGE MISSING)
-	(IMAGE MISSING)	
+(IMAGE MISSING)
+(IMAGE MISSING)
+(IMAGE MISSING)	
 	
