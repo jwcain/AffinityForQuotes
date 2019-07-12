@@ -25,6 +25,11 @@ The second part calculates the transition probabilities between words. For examp
 
 Out of the data, an implicit Markov Chain emerges. From a randomly selected starting word, I add words using the word-pair probabilities calculated earlier. This continues until it reaches the end-of-sentence mark and a quote is complete.
 	
+## Reflection 
+Currently, the bot sits on 7 (known) servers, with the largest containing several hundred active users at any time.
+
+The simplicity of the AI leads to interesting results. Most of the time, the quotes are fairly comical in nature and manage to retain the ‘voice’ of the original user.
+
 ## Structure
 The bot is contained in one file, in the root folder. 
 	
