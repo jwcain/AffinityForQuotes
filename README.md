@@ -1,5 +1,5 @@
 # AffinityForQuotes
-Written: July 2018 - Present
+![Cover Image](Images/AffinityForQuotes.png)
 ## Author
 - Justin W. Cain 
 - @AffinityForFun
