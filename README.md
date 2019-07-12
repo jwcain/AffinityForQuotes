@@ -53,7 +53,9 @@ The bot requires Python 3.6, and the discord packaged to be installed. You must 
 ```
 			
 ## Example
-(IMAGE MISSING)
-(IMAGE MISSING)
-(IMAGE MISSING)	
+![Example 1](Images/AFQ_E%23.PNG)
+
+![Example 2](Images/AFQ_E1.PNG)
+
+![Example 3](Images/AFQ_E3.PNG)
 	
