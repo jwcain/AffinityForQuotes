@@ -1,10 +1,10 @@
 # AffinityForQuotes
 Written: July 2018 - Present
 ## Author
-- Justin Cain
-- jwcain@mtu.edu
+- Justin W. Cain 
 - @AffinityForFun
-- jwcain.github.io/Portfolio
+- jwcain@mtu.edu
+- [Portfolio](https://jwcain.github.io/Portfolio/)
 
 ## Process
 Over the summer of 2018, I was in a discord chat room discussing an AI capable of generating Seinfeld episodes. I then thought it would be funny to see randomly generated messages from users in the chat room, so I set out to build it.
